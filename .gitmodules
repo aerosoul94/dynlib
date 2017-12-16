@@ -1,0 +1,3 @@
+[submodule "TinyXML"]
+	path = TinyXML
+	url = https://github.com/icebreaker/TinyXML
